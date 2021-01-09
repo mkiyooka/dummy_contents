@@ -7,7 +7,6 @@ Copyright: (C) 2020 Masahiro KIYOOKA
 
 Write contents here.
 
-watermelons waterpower waterpower's waterproof
 waterproof's waterproofed waterproofing waterproofing's waterproofs waters waters's watershed watershed's watersheds
 waterside waterside's watersides waterspout waterspout's waterspouts watertight waterway waterway's waterways
 waterworks waterworks's watery watt watt's wattage wattage's wattle wattle's wattled
